@@ -1,0 +1,51 @@
+<graph subcaption='sdfsfsdf' caption='Sales by Product' numberPrefix='$'
+	formatNumberScale='1' decimalPrecision='1'>
+	<categories>
+		<category name='Product A' />
+		<category name='Product B' />
+		<category name='Product C' />
+		<category name='Product D' />
+		<category name='Product E' />
+		<category name='Product F' />
+	</categories>
+	<dataset seriesName='Current Year' color='AFD8F8'>
+		<set value='567500' />
+		<set value='815300' />
+		<set value='556800' />
+		<set value='734500' />
+		<set value='676800' />
+		<set value='648500' />
+	</dataset>
+	<dataset seriesName='Previous Year' color='F6BD0F'>
+		<set value='547300' />
+		<set value='584500' />
+		<set value='754000' />
+		<set value='456300' />
+		<set value='754500' />
+		<set value='437600' />
+	</dataset>
+	<dataset seriesName='Next Year' color='BCBC0F'>
+		<set value='587300' />
+		<set value='384500' />
+		<set value='654000' />
+		<set value='756300' />
+		<set value='954500' />
+		<set value='137600' />
+	</dataset>
+</graph>
+
+<!-- single -->
+<graph xAxisName='x 轴名称' showName='1' decimalPrecision='0'  formatNumberScale='0'>
+	<set name='junle' value='10000' color='AFD8F8' />
+	<set name='junle' value='10000' color='AFD8F8' />
+	<set name='junle' value='10000' color='AFD8F8' />
+	<set name='junle' value='10000' color='AFD8F8' />
+	<set name='junle' value='10000' color='AFD8F8' />
+	<set name='junle' value='10000' color='AFD8F8' />
+	<set name='junle' value='10000' color='AFD8F8' />
+	<set name='junle' value='10000' color='AFD8F8' />
+</graph>
+
+
+
+

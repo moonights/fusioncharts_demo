@@ -1,0 +1,16 @@
+<!--数据组织方式  add by 盛现东-->
+<!-- single -->
+<graph xAxisName='x 轴名称' showName='1' decimalPrecision='0'  formatNumberScale='0'>
+	<set name='junle' value='10000' color='AFD8F8' />
+	<set name='junle' value='10000' color='AFD8F8' />
+	<set name='junle' value='10000' color='AFD8F8' />
+	<set name='junle' value='10000' color='AFD8F8' />
+	<set name='junle' value='10000' color='AFD8F8' />
+	<set name='junle' value='10000' color='AFD8F8' />
+	<set name='junle' value='10000' color='AFD8F8' />
+	<set name='junle' value='10000' color='AFD8F8' />
+</graph>
+
+
+
+
