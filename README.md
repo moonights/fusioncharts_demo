@@ -1,4 +1,4 @@
 siample freecharts demo
 ======
 
-A siample web demo about fusionCharts.
+A simple web demo about fusionCharts.
